@@ -1,0 +1,1623 @@
+[
+    {
+        "Id": "b3024aceb80f4cce82fa8b50e465bf6b",
+        "RecognitionStatus": 0,
+        "Offset": 29000000,
+        "Duration": 28800000,
+        "Channel": 0,
+        "DisplayText": "Why do cats stare when you're pouring milk?",
+        "NBest": [
+            {
+                "Confidence": 0.68325996,
+                "Lexical": "why do cats stare when you're pouring milk",
+                "ITN": "why do cats stare when you're pouring milk",
+                "MaskedITN": "why do cats stare when you're pouring milk",
+                "Display": "Why do cats stare when you're pouring milk?",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 29000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 32200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 33400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stare",
+                        "Offset": 37000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 43000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 45000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pouring",
+                        "Offset": 47800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "milk",
+                        "Offset": 52200000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6591065,
+                "Lexical": "why did cats stare when you're pouring milk",
+                "ITN": "why did cats stare when you're pouring milk",
+                "MaskedITN": "why did cats stare when you're pouring milk",
+                "Display": "why did cats stare when you're pouring milk",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 29000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 32200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 33400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stare",
+                        "Offset": 37000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 43000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 45000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pouring",
+                        "Offset": 47800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "milk",
+                        "Offset": 52200000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.68465567,
+                "Lexical": "why do cats stare when you're pouring",
+                "ITN": "why do cats stare when you're pouring",
+                "MaskedITN": "why do cats stare when you're pouring",
+                "Display": "why do cats stare when you're pouring",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 29000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 32200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 33400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stare",
+                        "Offset": 37000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 43000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 45000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pouring",
+                        "Offset": 47800000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.56906164,
+                "Lexical": "why do cats stare when you are pouring milk",
+                "ITN": "why do cats stare when you are pouring milk",
+                "MaskedITN": "why do cats stare when you are pouring milk",
+                "Display": "why do cats stare when you are pouring milk",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 29000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 32200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 33400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stare",
+                        "Offset": 37000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 43000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 45000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 46600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouring",
+                        "Offset": 47800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "milk",
+                        "Offset": 52200000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6570523,
+                "Lexical": "why did cats stare when you're pouring",
+                "ITN": "why did cats stare when you're pouring",
+                "MaskedITN": "why did cats stare when you're pouring",
+                "Display": "why did cats stare when you're pouring",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 29000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 32200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 33400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stare",
+                        "Offset": 37000000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 43000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 45000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pouring",
+                        "Offset": 47800000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "3f3d922daeac4a6bb2aab05a4365ece3",
+        "RecognitionStatus": 0,
+        "Offset": 79100000,
+        "Duration": 22000000,
+        "Channel": 0,
+        "DisplayText": "It's like they know it's only a matter of time.",
+        "NBest": [
+            {
+                "Confidence": 0.79670614,
+                "Lexical": "it's like they know it's only a matter of time",
+                "ITN": "it's like they know it's only a matter of time",
+                "MaskedITN": "it's like they know it's only a matter of time",
+                "Display": "It's like they know it's only a matter of time.",
+                "Words": [
+                    {
+                        "Word": "it's",
+                        "Offset": 79100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 81500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 83100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 84700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 86700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 88300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 90700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "matter",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 94300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 95100000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.75432825,
+                "Lexical": "it's like they know it's only a matter of time time",
+                "ITN": "it's like they know it's only a matter of time time",
+                "MaskedITN": "it's like they know it's only a matter of time time",
+                "Display": "it's like they know it's only a matter of time time",
+                "Words": [
+                    {
+                        "Word": "it's",
+                        "Offset": 79100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 81500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 83100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 84700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 86700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 88300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 89900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "matter",
+                        "Offset": 90300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 92700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 93500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 95100000,
+                        "Duration": 10000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.564551,
+                "Lexical": "it's like they know it is only a matter of time",
+                "ITN": "it's like they know it is only a matter of time",
+                "MaskedITN": "it's like they know it is only a matter of time",
+                "Display": "it's like they know it is only a matter of time",
+                "Words": [
+                    {
+                        "Word": "it's",
+                        "Offset": 79100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 81500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 83100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 84700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 86700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 87500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 88300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 90700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "matter",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 94300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 95100000,
+                        "Duration": 10000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6352302,
+                "Lexical": "it's like they know its only a matter of time",
+                "ITN": "it's like they know its only a matter of time",
+                "MaskedITN": "it's like they know its only a matter of time",
+                "Display": "it's like they know its only a matter of time",
+                "Words": [
+                    {
+                        "Word": "it's",
+                        "Offset": 79100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 81500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 83100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 84700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "its",
+                        "Offset": 86700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 88300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 90700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "matter",
+                        "Offset": 91100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 94300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 95100000,
+                        "Duration": 10000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.71992904,
+                "Lexical": "it's like they know it's only a matter time",
+                "ITN": "it's like they know it's only a matter time",
+                "MaskedITN": "it's like they know it's only a matter time",
+                "Display": "it's like they know it's only a matter time",
+                "Words": [
+                    {
+                        "Word": "it's",
+                        "Offset": 79100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 81500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 83100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "know",
+                        "Offset": 84700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 86700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 88300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 90700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "matter",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 94700000,
+                        "Duration": 10400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "7b55440690354baeadb4861c3ae32301",
+        "RecognitionStatus": 0,
+        "Offset": 120400000,
+        "Duration": 1600000,
+        "Channel": 0,
+        "DisplayText": "Time.",
+        "NBest": [
+            {
+                "Confidence": 0.5340884,
+                "Lexical": "time",
+                "ITN": "time",
+                "MaskedITN": "time",
+                "Display": "Time.",
+                "Words": [
+                    {
+                        "Word": "time",
+                        "Offset": 120400000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0,
+                "Lexical": "",
+                "ITN": "",
+                "MaskedITN": "",
+                "Display": ""
+            }
+        ]
+    },
+    {
+        "Id": "6fe204de996a4fb792474dd49de8fee9",
+        "RecognitionStatus": 0,
+        "Offset": 129500000,
+        "Duration": 35600000,
+        "Channel": 0,
+        "DisplayText": "The only thing between them and deposable thumbs.",
+        "NBest": [
+            {
+                "Confidence": 0.8128512,
+                "Lexical": "the only thing between them and deposable thumbs",
+                "ITN": "the only thing between them and deposable thumbs",
+                "MaskedITN": "the only thing between them and deposable thumbs",
+                "Display": "The only thing between them and deposable thumbs.",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 129500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "only",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 133900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "between",
+                        "Offset": 136300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "them",
+                        "Offset": 139900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deposable",
+                        "Offset": 146300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 153500000,
+                        "Duration": 11600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "8a063c48c729409fa97f64da5a6314cd",
+        "RecognitionStatus": 0,
+        "Offset": 180700000,
+        "Duration": 8800000,
+        "Channel": 0,
+        "DisplayText": "Imagine that.",
+        "NBest": [
+            {
+                "Confidence": 0.80900216,
+                "Lexical": "imagine that",
+                "ITN": "imagine that",
+                "MaskedITN": "imagine that",
+                "Display": "Imagine that.",
+                "Words": [
+                    {
+                        "Word": "imagine",
+                        "Offset": 180700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 185900000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5733896,
+                "Lexical": "imagine that cats",
+                "ITN": "imagine that cats",
+                "MaskedITN": "imagine that cats",
+                "Display": "imagine that cats",
+                "Words": [
+                    {
+                        "Word": "imagine",
+                        "Offset": 180700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 185900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 200300000,
+                        "Duration": 6900000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.55448854,
+                "Lexical": "imagine that cat",
+                "ITN": "imagine that cat",
+                "MaskedITN": "imagine that cat",
+                "Display": "imagine that cat",
+                "Words": [
+                    {
+                        "Word": "imagine",
+                        "Offset": 180700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 185900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cat",
+                        "Offset": 200300000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5665411,
+                "Lexical": "imagine that c",
+                "ITN": "imagine that c",
+                "MaskedITN": "imagine that c",
+                "Display": "imagine that c",
+                "Words": [
+                    {
+                        "Word": "imagine",
+                        "Offset": 180700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 185900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "c",
+                        "Offset": 200700000,
+                        "Duration": 400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "915e0b670a8d4c198878eb111d5bea92",
+        "RecognitionStatus": 0,
+        "Offset": 207600000,
+        "Duration": 12400000,
+        "Channel": 0,
+        "DisplayText": "Cats with thumbs.",
+        "NBest": [
+            {
+                "Confidence": 0.4406273,
+                "Lexical": "cats with thumbs",
+                "ITN": "cats with thumbs",
+                "MaskedITN": "cats with thumbs",
+                "Display": "Cats with thumbs.",
+                "Words": [
+                    {
+                        "Word": "cats",
+                        "Offset": 207600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 209200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 216000000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.3919007,
+                "Lexical": "cats with them",
+                "ITN": "cats with them",
+                "MaskedITN": "cats with them",
+                "Display": "cats with them",
+                "Words": [
+                    {
+                        "Word": "cats",
+                        "Offset": 207600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 209200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "them",
+                        "Offset": 213200000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5637982,
+                "Lexical": "cats with",
+                "ITN": "cats with",
+                "MaskedITN": "cats with",
+                "Display": "cats with",
+                "Words": [
+                    {
+                        "Word": "cats",
+                        "Offset": 207600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 209200000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.39098704,
+                "Lexical": "cats with thumb",
+                "ITN": "cats with thumb",
+                "MaskedITN": "cats with thumb",
+                "Display": "cats with thumb",
+                "Words": [
+                    {
+                        "Word": "cats",
+                        "Offset": 207600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 209200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumb",
+                        "Offset": 213200000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.3910453,
+                "Lexical": "cats with themes",
+                "ITN": "cats with themes",
+                "MaskedITN": "cats with themes",
+                "Display": "cats with themes",
+                "Words": [
+                    {
+                        "Word": "cats",
+                        "Offset": 207600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 209200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "themes",
+                        "Offset": 216000000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "e9b533a69aeb45ce8798b34a1f4baa8e",
+        "RecognitionStatus": 0,
+        "Offset": 241600000,
+        "Duration": 76000000,
+        "Channel": 0,
+        "DisplayText": "And what if they got together gangs of cats with thumbs and organized army with one thing on their mind?",
+        "NBest": [
+            {
+                "Confidence": 0.7502979,
+                "Lexical": "and what if they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "ITN": "and what if they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "MaskedITN": "and what if they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "Display": "And what if they got together gangs of cats with thumbs and organized army with one thing on their mind?",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 241600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 242800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 244400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 245200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "got",
+                        "Offset": 246800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "together",
+                        "Offset": 248000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "gangs",
+                        "Offset": 257200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 264000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 265600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 270400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 273200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 286000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "organized",
+                        "Offset": 287200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "army",
+                        "Offset": 294800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 297600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 299600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 302800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 306800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 310400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mind",
+                        "Offset": 312800000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.75273097,
+                "Lexical": "and what if they got together gangs of cats with thumbs an organized army with one thing on their mind",
+                "ITN": "and what if they got together gangs of cats with thumbs an organized army with one thing on their mind",
+                "MaskedITN": "and what if they got together gangs of cats with thumbs an organized army with one thing on their mind",
+                "Display": "and what if they got together gangs of cats with thumbs an organized army with one thing on their mind",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 241600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 242800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 244400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 245200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "got",
+                        "Offset": 246800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "together",
+                        "Offset": 248000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "gangs",
+                        "Offset": 257200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 264000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 265600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 270400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 273200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "an",
+                        "Offset": 286000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "organized",
+                        "Offset": 287200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "army",
+                        "Offset": 294800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 297600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 299600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 302800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 306800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 310400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mind",
+                        "Offset": 312800000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74736947,
+                "Lexical": "and what if they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "ITN": "and what if they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "MaskedITN": "and what if they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "Display": "and what if they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 241600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 242800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "if",
+                        "Offset": 244400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 245200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "got",
+                        "Offset": 246800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "together",
+                        "Offset": 248000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "gangs",
+                        "Offset": 257200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 264000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 265600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 270400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 273200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 286000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "organised",
+                        "Offset": 287200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "army",
+                        "Offset": 294800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 297600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 299600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 302800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 306800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 310400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mind",
+                        "Offset": 312800000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.691263,
+                "Lexical": "and what have they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "ITN": "and what have they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "MaskedITN": "and what have they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "Display": "and what have they got together gangs of cats with thumbs and organized army with one thing on their mind",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 241600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 242800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 245200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 246800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "got",
+                        "Offset": 249600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "together",
+                        "Offset": 251200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "gangs",
+                        "Offset": 257200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 264000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 265600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 270400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 273200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 286000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "organized",
+                        "Offset": 287200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "army",
+                        "Offset": 294800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 297600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 299600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 302800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 306800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 310400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mind",
+                        "Offset": 312800000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.68833464,
+                "Lexical": "and what have they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "ITN": "and what have they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "MaskedITN": "and what have they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "Display": "and what have they got together gangs of cats with thumbs and organised army with one thing on their mind",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 241600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 242800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 245200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 246800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "got",
+                        "Offset": 249600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "together",
+                        "Offset": 251200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "gangs",
+                        "Offset": 257200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 264000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "cats",
+                        "Offset": 265600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 270400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "thumbs",
+                        "Offset": 273200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 286000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "organised",
+                        "Offset": 287200000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "army",
+                        "Offset": 294800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 297600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 299600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 302800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 306800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 310400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mind",
+                        "Offset": 312800000,
+                        "Duration": 4800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "baa1ebb48ea342758a54c3a587d7357b",
+        "RecognitionStatus": 0,
+        "Offset": 358800000,
+        "Duration": 40000000,
+        "Channel": 0,
+        "DisplayText": "Gravendale Well jog on kitties.",
+        "NBest": [
+            {
+                "Confidence": 0.5078013,
+                "Lexical": "gravendale well jog on kitties",
+                "ITN": "gravendale well jog on kitties",
+                "MaskedITN": "gravendale well jog on kitties",
+                "Display": "Gravendale Well jog on kitties.",
+                "Words": [
+                    {
+                        "Word": "gravendale",
+                        "Offset": 358800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "well",
+                        "Offset": 367600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jog",
+                        "Offset": 382400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 388800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "kitties",
+                        "Offset": 391600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4916897,
+                "Lexical": "gravenhail well jog on kitties",
+                "ITN": "gravenhail well jog on kitties",
+                "MaskedITN": "gravenhail well jog on kitties",
+                "Display": "gravenhail well jog on kitties",
+                "Words": [
+                    {
+                        "Word": "gravenhail",
+                        "Offset": 359600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "well",
+                        "Offset": 364800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jog",
+                        "Offset": 382400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 388800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "kitties",
+                        "Offset": 391600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.49603027,
+                "Lexical": "gravenhay well jog on kitties",
+                "ITN": "gravenhay well jog on kitties",
+                "MaskedITN": "gravenhay well jog on kitties",
+                "Display": "gravenhay well jog on kitties",
+                "Words": [
+                    {
+                        "Word": "gravenhay",
+                        "Offset": 359600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "well",
+                        "Offset": 364800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jog",
+                        "Offset": 382400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 388800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "kitties",
+                        "Offset": 391600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.42751324,
+                "Lexical": "gravenhay 's well jog on kitties",
+                "ITN": "gravenhay 's well jog on kitties",
+                "MaskedITN": "gravenhay 's well jog on kitties",
+                "Display": "gravenhay 's well jog on kitties",
+                "Words": [
+                    {
+                        "Word": "gravenhay",
+                        "Offset": 359600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 364400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "well",
+                        "Offset": 364800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jog",
+                        "Offset": 382400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 388800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "kitties",
+                        "Offset": 391600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.33859512,
+                "Lexical": "gravenhail well jog on kitty 's",
+                "ITN": "gravenhail well jog on kitty 's",
+                "MaskedITN": "gravenhail well jog on kitty 's",
+                "Display": "gravenhail well jog on kitty 's",
+                "Words": [
+                    {
+                        "Word": "gravenhail",
+                        "Offset": 359600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "well",
+                        "Offset": 364800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jog",
+                        "Offset": 382400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 388800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "kitty",
+                        "Offset": 391600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 396400000,
+                        "Duration": 400000
+                    }
+                ]
+            }
+        ]
+    }
+]
